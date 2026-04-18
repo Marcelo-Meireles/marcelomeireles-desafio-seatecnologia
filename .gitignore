@@ -1,0 +1,11 @@
+node_modules/
+playwright-report/
+test-results/
+blob-report/
+reports/
+.env
+.env.*
+coverage/
+dist/
+tmp/
+.DS_Store
